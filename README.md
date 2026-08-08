@@ -1,4 +1,4 @@
-# BusTracking Application
+# Smart-Bus-Tracker-System
 
 A full-stack bus tracking application with a Flutter frontend and a Dart backend.
 
